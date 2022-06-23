@@ -5,7 +5,7 @@ const ListScreen = () => {
   const friends = [
     {name: 'Ramisha', age: '22'},
     {name: 'Fatima', age: '28'},
-    {name: 'May', age: '43'},
+    {name: 'May', age: '44'},
     {name: 'Ashleigh', age: '32'},
     {name: 'Reyna', age: '36'},
     {name: 'Rhea', age: '40'},
